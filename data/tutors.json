@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Екатерина Эмилевна",
+        "experience": "7 лет",
+        "lang": "английский",
+        "img": "photo_lrg.jpg",
+        "rating": "4.8"
+    },
+    {
+        "id": 2,
+        "name": "Sophie Leclerc",
+        "experience": "5 лет",
+        "lang": "французский",
+        "img": "photo_lrg.png",
+        "rating": "4.9"
+    },
+    {
+        "id": 3,
+        "name": "Margo Rossi",
+        "experience": "3 года",
+        "lang": "итальянский",
+        "img": "photo_lrg3.jpg",
+        "rating": "4.7"
+    },
+    {
+        "id": 4,
+        "name": "Yuki Tanaka",
+        "experience": "4 года",
+        "lang": "японский",
+        "img": "photo_lrg4.jpg",
+        "rating": "4.6"
+    },
+    {
+        "id": 5,
+        "name": "Emil Johnson",
+        "experience": "6 years",
+        "lang": "английский",
+        "img": "photo_lrg5.jpg",
+        "rating": "4.9"
+    },
+    {
+        "id": 6,
+        "name": "Jean-Claude Dubois",
+        "experience": "8 лет",
+        "lang": "французский",
+        "img": "photo_lrg6.jpg",
+        "rating": "4.8"
+    },
+    {
+        "id": 7,
+        "name": "Giulia Romano",
+        "experience": "5 лет",
+        "lang": "итальянский",
+        "img": "photo_lrg7.jpg",
+        "rating": "4.7"
+    },
+    {
+        "id": 8,
+        "name": "Takashi Suzuki",
+        "experience": "3 года",
+        "lang": "японский",
+        "img": "photo_lrg8.jpg",
+        "rating": "4.6"
+    },
+    {
+        "id": 9,
+        "name": "John Smith",
+        "experience": "10 лет",
+        "lang": "английский",
+        "img": "photo_lrg9.jpg",
+        "rating": "4.9"
+    },
+    {
+        "id": 10,
+        "name": "Marie Dupont",
+        "experience": "6 лет",
+        "lang": "французский",
+        "img": "photo_lrg10.jpg",
+        "rating": "4.8"
+    }
+]
